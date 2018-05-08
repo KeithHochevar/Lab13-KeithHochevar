@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.deps.json
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.json
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.dll
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.pdb
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfo.cs
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.dll
+C:\Users\Owner\Desktop\visual studio source\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.pdb
